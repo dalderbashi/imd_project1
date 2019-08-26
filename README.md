@@ -1,4 +1,4 @@
 # imd_project1
 ## subheading
-**bold 
--italics_
+**bold** 
+_italics_
