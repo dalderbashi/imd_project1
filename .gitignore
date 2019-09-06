@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+#Diana's config file 
+config.py
 
 # C extensions
 *.so
