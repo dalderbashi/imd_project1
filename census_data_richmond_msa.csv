@@ -1,4 +1,4 @@
-Zipcode,Neighborhood,Population,Median Age,Household Income,Per Capita Income,Poverty Count,Poverty Rate,Median Home Value,Persons with Bachelor Degree,People in Labor Force,People Unemployed,Unemplyment Rate
+Zipcode,Neighborhood,Population,Median Age,Household Income,Per Capita Income,Poverty Count,Poverty Rate,Median Home Value,Persons with Bachelor Degree,People in Labor Force,People Unemployed,Unemployment Rate
 22427,Bowling Green,3702.0,31.5,42232.0,20651.0,447.0,12.07455429497569,196800.0,246.0,2039.0,253.0,12.408043158410985
 22514,Milford,2451.0,44.6,49271.0,23579.0,239.0,9.751121991024073,147800.0,95.0,1220.0,119.0,9.754098360655737
 22535,Port Royal,362.0,52.3,51100.0,38654.0,54.0,14.917127071823206,239600.0,41.0,272.0,11.0,4.044117647058823
