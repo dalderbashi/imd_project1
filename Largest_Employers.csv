@@ -1,0 +1,51 @@
+Rank,Company Name,Address,Zipcode,Line of Business,Employees
+1,Capital One Financial Corp.,"15000 Capital One Dr, Henrico, VA 23238",23238,Financial services,"13,000"
+2,Virginia Cmnwlth. Univ. Health Syst,"1601 Willow Lawn Dr, Richmond, VA 23230",23230,Health Care,"9,313"
+3,HCA Virginia Health System,"7101 Jahnke Rd, Richmond, VA 23225",23225,Health Care,"7,628"
+4,Bon Secours Richmond,"Forest Ave, Richmond, VA 23229",23229,Health Care,"7,136"
+5,Dominion Virginia Power,"400 Scott Rd, Richmond, VA 23227",23227,Energy,"5,433"
+6,SunTrust Banks Inc.,"919 E Main St, Richmond, VA 23219",23219,Financial services,"3,810"
+7,Altria Group Inc.,"6601 W Broad St, Richmond, VA 23230",23230,Manufacturing,"3,800"
+7,Amazon.com,"1901 Meadowville Technology Pkwy, Chester, VA 23836",23836,Retailer,"3,800"
+9,Wells Fargo,"1021 E Cary St Ste 100, Richmond, VA 23219",23219,Financial services,"2,902"
+10,Anthem Blue Cross and Blue Shield,"2015 Staples Mill Rd, Richmond, VA 23230",23230,Insurance,"2,655"
+11,United Parcel Service,"9601 Coach Rd, Richmond, VA 23237",23237,Package distribution,"2,490"
+12,DuPont,"5401 Jefferson Davis Hwy, Richmond, VA 23234",23234,Chemicals,"2,376"
+13,Bank of America,"2601 W Broad St, Richmond, VA 23220",23220,Financial services,"1,921"
+14,Markel Corporation,"5310 Markel Rd, Richmond, VA 23230",23230,Insurance,"1,886"
+15,Federal Reserve Bank of Richmond,"701 E Byrd St, Richmond, VA 23219",23219,Financial services,"1,882"
+16,Verizon Communications,"2617 Stuart Ave, Richmond, VA 23220",23220,Telecommunications,"1,700"
+17,University of Richmond,"28 Westhampton Way, Richmond, VA 23173",23173,Education,"1,578"
+18,General Dynamics Corp.,"610 Liberty Way, Chester, VA 23836",23836,Call center,"1,450"
+19,CarMax Inc.,"12800 Tuckahoe Creek Pkwy, Richmond, VA 23238",23238,Automotive retail,"1,306"
+20,Southside Regional Medical,"200 Medical Park Blvd, Petersburg, VA 23805",23805,Health Care,"1,280"
+21,AdvanSix (formally Honeywell),"905 E Randolph Rd, Hopewell, VA 23860",23860,Chemicals,"1,177"
+22,Genworth Financial Inc.,"6620 W Broad St, Richmond, VA 23230",23230,Insurance,"1,134"
+23,Estes Express Lines,"3901 W Broad St, Richmond, VA 23230",23230,Trucking,"1,102"
+24,Kings Dominion,"16000 Theme Park Way, Doswell, VA 23047",23047,Amusement park,"1,000"
+25,CoStar Group,"1800 Bayberry Ct #202, Richmond, VA 23226",23226,Research,950
+26,GE Power,"1200 Willis Rd, North Chesterfield, VA 23237",23237,Manufacturing,928
+27,Supervalu Inc,"8459-8375, State Rte 1250, Mechanicsville, VA 23116",23116,Retailer,890
+28,Tyson Food Inc.,"13264 Mountain Rd, Glen Allen, VA 23059",23059,Retailer,850
+29,BB&T,"901 E Byrd St Ste 170, Richmond, VA 23219",23219,Financial services,839
+30,T-Mobile USA Inc.,"1367 W Broad St Unit 106, Richmond, VA 23220",23220,Telecommunications,816
+31,Patient First,"5000 Cox Rd, Glen Allen, VA 23060",23060,Health Care,805
+32,Hill Phoenix,"1301 Battery Brooke Pkwy, Richmond, VA 23237",23237,Manufacturing,791
+33,Northrop Grumman,"101 Gateway Centre Pkwy #300, North Chesterfield, VA 23235",23235,Information technology,725
+34,Allianz Global Assistance,"9950 Mayland Dr, Richmond, VA 23233",23233,Insurance,696
+34,Teleperformance,"2805 N Parham Rd #100, Richmond, VA 23294",23294,Financial services,696
+36,Performance Food Group,"12500 W Creek Pkwy, Richmond, VA 23238",23238,Retailer,694
+37,Comcast,"918 N Arthur Ashe Blvd, Richmond, VA 23230",23230,Telecommunications,675
+38,WestRock Corp.,"501 S 5th St, Richmond, VA 23219",23219,Package distribution,668
+39,Union Bank and Trust,"400 Libbie Ave, Richmond, VA 23226",23226,Financial services,665
+40,YMCA of Greater Richmond,"2 W Franklin St, Richmond, VA 23220",23220,Fitness and recreational services,631
+41,Elephant Insurance,"140 Eastshore Dr, Glen Allen, VA 23059",23059,Insurance,620
+41,McGuireWoods LLP,"800 E Canal St, Richmond, VA 23219",23219,Legal Services,620
+43,Owens & Minor Inc.,"951 E Byrd St, Richmond, VA 23219",23219,Wholesale medical supplies,609
+44,Goodwill of Central and Coastal VA,"6301 Midlothian Turnpike, Richmond, VA 23225",23225,Retailer,607
+45,Westminster Canterbury,"1600 Westbrook Ave, Richmond, VA 23227",23227,Retirement community,594
+46,Mondelez International,"6002 S Laburnum Ave, Henrico, VA 23231",23231,Retailer,580
+47,Wal-Mart Stores Inc.,"2410 Sheila Ln, Richmond, VA 23225",23225,Retailer,575
+48,Southern States,"6606 W Broad St, Richmond, VA 23230",23230,Agribusiness cooperative,574
+49,Virginia Credit Union,"7500 Boulder View Dr, North Chesterfield, VA 23225",23225,Financial services,572
+50,McKesson Medical-Surgical Inc.,"9954 Mayland Dr, Richmond, VA 23233",23233,Wholesale medical supplies,569
