@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 #Diana's config file 
 config.py
-
+Companies Equal or over 25 Employees.csv
+Resources/Companies Equal or over 50 Employees.csv
+Resources/Master List-Employee Above 5-MSA Regions.csv
 # C extensions
 *.so
 
